@@ -2,7 +2,7 @@
 
 _iso-8859-10_ is a robust JavaScript implementation of [the iso-8859-10 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-10).
 
-This encoding is known under the following names: csisolatin6, iso-8859-10, iso-ir-157, iso8859-10, iso885910, l6, latin6, and latin6.
+This encoding is known under the following names: csisolatin6, iso-8859-10, iso-ir-157, iso8859-10, iso885910, l6, and latin6.
 
 ## Installation
 
