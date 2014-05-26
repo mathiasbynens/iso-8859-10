@@ -1,4 +1,4 @@
-# iso-8859-10 [![Build status](https://travis-ci.org/mathiasbynens/iso-8859-10.svg?branch=master)](https://travis-ci.org/mathiasbynens/iso-8859-10) [![Dependency status](https://gemnasium.com/mathiasbynens/iso-8859-10.svg)](https://gemnasium.com/mathiasbynens/iso-8859-10)
+# iso-8859-10 [![Build status](https://travis-ci.org/mathiasbynens/iso-8859-10.svg?branch=master)](https://travis-ci.org/mathiasbynens/iso-8859-10) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/iso-8859-10/master.svg)](https://coveralls.io/r/mathiasbynens/iso-8859-10) [![Dependency status](https://gemnasium.com/mathiasbynens/iso-8859-10.svg)](https://gemnasium.com/mathiasbynens/iso-8859-10)
 
 _iso-8859-10_ is a robust JavaScript implementation of [the iso-8859-10 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-10).
 
