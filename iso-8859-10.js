@@ -1,4 +1,4 @@
-/*! https://mths.be/iso-8859-10 v0.1.2 by @mathias | MIT license */
+/*! https://mths.be/iso-8859-10 v1.0.0 by @mathias | MIT license */
 ;(function(root) {
 
 	// Detect free variables `exports`.
@@ -124,7 +124,7 @@
 			'l6',
 			'latin6'
 		],
-		'version': '0.1.2'
+		'version': '1.0.0'
 	};
 
 	// Some AMD build optimizers, like r.js, check for specific condition patterns
