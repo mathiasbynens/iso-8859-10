@@ -1,4 +1,4 @@
-# iso-8859-10 [![iso-8859-10 on npm](https://img.shields.io/npm/v/iso-8859-10)](https://www.npmjs.com/package/iso-8859-10)
+# iso-8859-10 [![Build status](https://github.com/mathiasbynens/iso-8859-10/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/iso-8859-10/actions?query=workflow%3Arun-checks) [![iso-8859-10 on npm](https://img.shields.io/npm/v/iso-8859-10)](https://www.npmjs.com/package/iso-8859-10)
 
 _iso-8859-10_ is a robust JavaScript implementation of [the iso-8859-10 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#iso-8859-10).
 
